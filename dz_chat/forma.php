@@ -12,18 +12,23 @@
 <body>
     <!-- <meta HTTP-equiv= "REFRECH" content -->
     <form action='?' method='POST'>
-        <input  type = 'text' value="<?=$_POST ['UserName']?>" name ="UserName">
-        <input type = 'text' name="for">
-      
- 
+        <input type='text' value="<?= isset($_POST['UserName']) ? $_POST['UserName'] : ''; ?>" name="UserName">
+        <input type='text' name="for">
+
+
         <input class="submit" type="submit" value="OK">
     </form>
 
     <?php
-if(!empty($_POST['for'])){
-file_put_contents("script.txt", $_POST['UserName']. ":". $_POST['for']. "\n", FILE_APPEND);
 
-}
+    if ($_SERVER['REMOTE_ADDR'] !== '176.60.152.116' && !empty($_POST['for'])) {
+        file_put_contents("script.txt", $_SERVER['HTTP_USER_AGENT'] . ": " . $_SERVER['REMOTE_ADDR'] . ": " . $_POST['UserName'] . ":" . $_POST['for'] . "\n", FILE_APPEND);
+    } else {
+        echo "Вас забаняли";
+    }
+
+
+
 
 
 
