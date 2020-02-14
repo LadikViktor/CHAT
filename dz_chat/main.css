@@ -8,6 +8,7 @@
     font-family: Arial, Helvetica, sans-serif;
     border: 1px solid black;
     border-radius: 5px;
+
 }
 
 .odd {
@@ -28,10 +29,11 @@ input {
     border-radius: 5px;
     font-family: Arial, Helvetica, sans-serif;
 
+
 }
 
 
-.banstyle{
+.banstyle {
     color: red;
     font-size: 30px;
-    }
+}
