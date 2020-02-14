@@ -30,10 +30,8 @@ input {
 
 }
 
-.UserName {
-    color: seagreen;
-}
 
-.bans{
+.banstyle{
     color: red;
+    font-size: 30px;
     }

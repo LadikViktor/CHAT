@@ -6,21 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta http-equiv="refresh" content="1">
+    <link href="main.css" rel="stylesheet">
     <title>Document</title>
-    <link href="main.css" rel='stylesheet'>
+
 </head>
 
 <body>
     <?php
-    $mes_arr = file("script.txt");
+    $mes_arr = file("text.txt");
     foreach ($mes_arr as $key => $value) {
-        $buf = explode(':', $value);
+        $buf = explode('| ', $value);
 
 
-        echo "<div class = '" . (($key % 2) ? 'odd' : 'even') . "'>$buf[2] : $buf[3] </div>";
+        echo "<div class = '" . (($key % 2) ? 'odd' : 'even') . "'> $buf[2] : $buf[3] </div>";
     }
     ?>
 </body>
 
 </html>
-
