@@ -10,8 +10,7 @@
 </head>
 
 <body>
-    <!-- <meta HTTP-equiv= "REFRECH" content -->
-    <form action='?' method='POST'>
+       <form action='?' method='POST'>
         <input type='text' value="<?= isset($_POST['UserName']) ? $_POST['UserName'] : ''; ?>" name="UserName">
         <input type='text' name="for">
 
@@ -20,16 +19,22 @@
     </form>
 
     <?php
+    //176.60.152.116
+       
+    $bans = file('ban.txt');
 
-    if ($_SERVER['REMOTE_ADDR'] !== '176.60.152.116' && !empty($_POST['for'])) {
-        file_put_contents("script.txt", $_SERVER['HTTP_USER_AGENT'] . ": " . $_SERVER['REMOTE_ADDR'] . ": " . $_POST['UserName'] . ":" . $_POST['for'] . "\n", FILE_APPEND);
+    if (in_array($_SERVER['REMOTE_ADDR'], $bans)) {
+        echo "<div class = 'bans'> Вас забанили </div>";
     } else {
-        echo "Вас забаняли";
+
+        file_put_contents('script.txt', $_SERVER['HTTP_USER_AGENT'] . ": " . $_SERVER['REMOTE_ADDR'] . ": " . $_POST['userName'] . ": " . $_POST['message'] . "\n", FILE_APPEND);
     }
 
 
+    ?>
 
 
+</body>
 
 
 
