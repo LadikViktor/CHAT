@@ -18,8 +18,8 @@
     foreach ($mes_arr as $key => $value) {
         $buf = explode($separete, $value);
 
-
-        echo "<div class = '" . (($key % 2) ? 'odd' : 'even') . "'> $buf[2] : $buf[3] </div>";
+        $day = date('l,d-M-Y H:i:s');
+        echo   "<div class = '" . (($key % 2) ? 'odd' : 'even') . "'>$buf[2] : $buf[3] </div>" . "<div class = 'day'> $day</div>";
     }
     ?>
 </body>

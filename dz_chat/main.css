@@ -3,7 +3,7 @@
     background-color: yellow;
     height: 20px;
     width: 280px;
-    margin: 15px;
+    margin-top: 20px;
     margin-left: 20px;
     font-family: Arial, Helvetica, sans-serif;
     border: 1px solid black;
@@ -20,6 +20,8 @@
     border: 1px solid black;
     border-radius: 5px;
     color: rgb(151, 22, 22);
+
+    margin-top: 20px;
 }
 
 input {
@@ -36,4 +38,13 @@ input {
 .banstyle {
     color: red;
     font-size: 30px;
+}
+
+.day{
+    color:darkblue;
+    font-size: 15px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    margin-left: 20px;
+  
 }
