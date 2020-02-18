@@ -24,8 +24,9 @@
         echo "<div class = 'banstyle'> Вас забанили </div>";
     } elseif (!empty($_POST['age']) && !empty($_POST['userName'])) {
 
-        file_put_contents('text.txt', $_SERVER['HTTP_USER_AGENT'] . $separete  . $_SERVER['REMOTE_ADDR'] . $separete  . $_POST['userName'] . $separete  . $_POST['age'] . "\n", FILE_APPEND);
+        file_put_contents('text.txt', $_SERVER['HTTP_USER_AGENT'] . $separete  . $_SERVER['REMOTE_ADDR'] . $separete  . $_POST['userName'] . $separete  . $_POST['age'] .  $separete . time() . "\n", FILE_APPEND);
     }
+
 
 
     ?>
