@@ -30,7 +30,7 @@ function smile($f)
 
 function cens($f)
 {
-    if (preg_match("/(дурак|редиска)/i", $_POST['text'])) {
+    if (preg_match("/(дурак|редиска)/i", $_POST['userName'])) {
         echo 'У нас запрещен мат';
     } else {
         return $f;

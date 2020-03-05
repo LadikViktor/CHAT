@@ -1,8 +1,15 @@
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36[|&|]127.0.0.1[|&|]петя[|&|]привет
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36[|&|]127.0.0.1[|&|]вася[|&|]пока
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36[|&|]127.0.0.1[|&|]Петя[|&|]сколько времени
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36[|&|]127.0.0.1[|&|]Вася[|&|]много
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36[|&|]127.0.0.1[|&|]Вася[|&|]много
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36[|&|]127.0.0.1[|&|]Петя[|&|]я тут1582040805
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36[|&|]127.0.0.1[|&|]Петя[|&|]привет[|&|]1582040934
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36[|&|]127.0.0.1[|&|]Петя[|&|]я тут[|&|]1582040959
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]вася[|&|]привет[|&|]1583429807
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]вася[|&|]дурак[|&|]1583429813
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]вася[|&|]редиска[|&|]1583429819
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]вася[|&|]:([|&|]1583430112
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]петя[|&|]дурак[|&|]1583430200
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]петя[|&|]:-([|&|]1583430209
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]петя[|&|][b]fdfdfdf[/b][|&|]1583430222
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]петя[|&|]редиска[|&|]1583430263
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]петя[|&|]редиска[|&|]1583430423
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]петя[|&|]:)[|&|]1583430429
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]вася[|&|]редиска[|&|]1583430606
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]петя[|&|]:([|&|]1583433017
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]петя[|&|]дурак[|&|]1583433023
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]вася[|&|]dfdf[|&|]1583433337
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]вася[|&|][b]gfgfgfgf[/b][|&|]1583433358
