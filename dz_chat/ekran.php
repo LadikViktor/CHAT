@@ -18,10 +18,13 @@
     $mes_arr = file("text.txt");
     foreach ($mes_arr as $key => $value) {
         $buf = explode($separete, $value);
+        
         $day = date('l,d-M-Y H:i:s', $buf[4]);
         $f = "$buf[2]: $buf[3]";
-        echo   "<div class = '" . (($key % 2) ? 'odd' : 'even') . "'>" . bbcode(smile(cens(htmlspecialchars($_POST['userName'])))) .  "</div>" . "<div class = 'day'> $day </div>";
+        echo   "<div class = '" . (($key % 2) ? 'odd' : 'even') . "'>" . bbcode(smile(cens(htmlspecialchars($f)))) .  "</div>" . "<div class = 'day'> $day </div>";
     }
+  
+
     
     ?>
 </body>
