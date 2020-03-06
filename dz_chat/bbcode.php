@@ -10,31 +10,28 @@ function bbcode($f)
 
 function smile($f)
 {
-    $arr=[
+    $arr = [
         "/\:\-\)/",
         "/\:\-\(/",
         "/\:\(/",
         "/\:\)/"
     ];
-    
-    $arr2=[
+
+    $arr2 = [
         '<img width="20" src="1600.jpg">',
         '<img width="20" src="gr.jpg">',
         '<img width="20" src="dsfsd.jpg">',
         '<img width="20" src="images.jpg">'
     ];
-    
-    return preg_replace($arr, $arr2, $f);
 
+    return preg_replace($arr, $arr2, $f);
 }
 
 function cens($f)
 {
-    if (preg_match("/(дурак|редиска)/i", $_POST['userName'])) {
-        echo 'У нас запрещен мат';
+    if (preg_match("/(дурак|редиска)/i", $f)) {
+        return 'У нас запрещен мат';
     } else {
         return $f;
     }
-
 }
-
