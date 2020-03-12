@@ -26,3 +26,4 @@ Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36[|&|]127.0.0.1[|&|]Петя[|&|]редиска[|&|]1583509927
 Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36[|&|]127.0.0.1[|&|]Петя[|&|]свой[|&|]1583509932
 >>>>>>> 7618c4c24af2aab6c4d3596e67a14b5333b69c48
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1[|&|]вася[|&|]редиска[|&|]1584035222
