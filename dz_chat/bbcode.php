@@ -35,3 +35,26 @@ function cens($f)
         return $f;
     }
 }
+
+function SavGB($text, $name)
+{
+    $str = <<<XML
+\n<msg>
+<text>$text</text>
+<name>$name</name>
+</msg>
+XML;
+    return file_put_contents("ws.xml", $str, FILE_APPEND);
+}
+
+
+
+function mass($f)
+{
+    preg_match_all(
+        '/<msg>.*?<text>(.*?)<\/text>.*?<name>(.*?)<\/name>.*?<\/msg>/ius',
+        file_get_contents($f),
+        $matches
+
+    );
+}
