@@ -3,3 +3,61 @@
     <name>Друг</name>
     </msg>
 
+
+
+<msg>
+<userAgent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36</userAgent>
+<addr>127.0.0.1</addr>
+<name>вася</name>
+<text>э</text>
+<date>15.03.2020 18:55:19</date>
+</msg>
+<msg>
+<userAgent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36</userAgent>
+<addr>127.0.0.1</addr>
+<name>вася</name>
+<text>э</text>
+<date>15.03.2020 18:55:34</date>
+</msg>
+<msg>
+<userAgent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36</userAgent>
+<addr>127.0.0.1</addr>
+<name>fddddd</name>
+<text>э</text>
+<date>15.03.2020 18:57:56</date>
+</msg>
+<msg>
+<userAgent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36</userAgent>
+<addr>127.0.0.1</addr>
+<name>петя</name>
+<text>gdf</text>
+<date>15.03.2020 18:58:25</date>
+</msg>
+<msg>
+<userAgent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36</userAgent>
+<addr>127.0.0.1</addr>
+<name>вася</name>
+<text>э</text>
+<date>15.03.2020 18:59:53</date>
+</msg>
+<msg>
+<userAgent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36</userAgent>
+<addr>127.0.0.1</addr>
+<name>петя</name>
+<text>э</text>
+<date>15.03.2020 19:03:26</date>
+</msg>
+<msg>
+<userAgent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36[|&|]127.0.0.1</userAgent>
+<addr>вася</addr>
+<name>gdf</name>
+<text>15.03.2020 19:21:29</text>
+<date>8</date>
+</msg>
+<msg>
+<userAgent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36</userAgent>
+<addr>127.0.0.1</addr>
+<name>петя</name>
+<text>э</text>
+<date>15.03.2020 19:22:33</date>
+</msg>
